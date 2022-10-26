@@ -1,0 +1,20 @@
+/* Font */
+@font-face {
+    font-family: 'GmarketSansMedium';
+    src: url('/font/GmarketSansMedium.woff?202105') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* 기본 CSS */
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td { margin:0; padding:0 }
+body, input, textarea, select, button, table { font-size:14px; line-height:1.25em; font-family:'GmarketSansMedium', 'Noto Sans KR', 'Nanum Gothic', NanumGothic, Dotum, "占쏙옙占쏙옙", Verdana, Georgia; }
+html, body { padding:0; margin:0; }
+img, fieldset { border:0 }
+ul, ol { list-style:none }
+em, address { font-style:normal }
+a { text-decoration:none;color:#202020; }
+a:hover, a:active, a:focus { text-decoration:none;color:#202020; }
+
+table {width:100%;border-collapse:collapse;table-layout:fixed;font-size:100%;border-spacing:0}
+table td {word-wrap:break-word;word-break:break-all}

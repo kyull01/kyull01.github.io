@@ -1,0 +1,6 @@
+.box-type01 .txt_tit { color: #FFF; }
+
+/* dash03 - dashed */
+.box_table {  }
+.box_table .box_bottom .board_info { width:calc(60% - 24px); }
+.box_table .box_bottom .board_info ul li .desc { color:#fff; }
